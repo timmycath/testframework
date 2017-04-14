@@ -1,0 +1,5 @@
+C:\Subhash\CUB\SampleProjects\UIControls_Library\UIControls_Library\bin\Debug\UIControls_Library.dll
+C:\Subhash\CUB\SampleProjects\UIControls_Library\UIControls_Library\bin\Debug\UIControls_Library.pdb
+C:\Subhash\CUB\SampleProjects\UIControls_Library\UIControls_Library\obj\Debug\UIControls_Library.dll
+C:\Subhash\CUB\SampleProjects\UIControls_Library\UIControls_Library\obj\Debug\UIControls_Library.pdb
+C:\Subhash\CUB\SampleProjects\UIControls_Library\UIControls_Library\obj\Debug\UIControls_Library.csprojResolveAssemblyReference.cache

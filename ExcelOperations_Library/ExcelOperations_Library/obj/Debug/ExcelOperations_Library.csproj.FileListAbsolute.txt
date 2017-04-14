@@ -1,0 +1,6 @@
+C:\Subhash\CUB\SampleProjects\ExcelOperations_Library\ExcelOperations_Library\bin\Debug\ExcelOperations_Library.dll
+C:\Subhash\CUB\SampleProjects\ExcelOperations_Library\ExcelOperations_Library\bin\Debug\ExcelOperations_Library.pdb
+C:\Subhash\CUB\SampleProjects\ExcelOperations_Library\ExcelOperations_Library\obj\Debug\ExcelOperations_Library.csprojResolveAssemblyReference.cache
+C:\Subhash\CUB\SampleProjects\ExcelOperations_Library\ExcelOperations_Library\obj\Debug\ExcelOperations_Library.csproj.ResolveComReference.cache
+C:\Subhash\CUB\SampleProjects\ExcelOperations_Library\ExcelOperations_Library\obj\Debug\ExcelOperations_Library.dll
+C:\Subhash\CUB\SampleProjects\ExcelOperations_Library\ExcelOperations_Library\obj\Debug\ExcelOperations_Library.pdb
